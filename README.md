@@ -74,6 +74,23 @@ Sanity checks performed:
 - Produces ~12,453 chunks | Average length ~89 characters
 
 ---
+## 📸 Screenshots
+
+### Dataset Preview
+![Dataset](screenshots/dataset.png)
+
+### Token-Based Chunking
+![Token Chunking](screenshots/token.png)
+
+### Semantic Chunking
+![Semantic Chunking](screenshots/semantic.png)
+
+### Sentence-Window Chunking
+![Sentence-Window Chunking](screenshots/sentence.png)
+
+### Final Comparison
+![Final Comparison](screenshots/final.png)
+---
 
 ## 🧠 Retrieval Evaluation
 
