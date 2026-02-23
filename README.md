@@ -146,11 +146,12 @@ Sentence-window chunking consistently achieved the highest retrieval quality acr
 
 ## 👨‍💻 Author
 
-**Your Name**
+### Your Name
 - GitHub: [AnushkaKhadatkar](https://github.com/AnushkaKhadatkar)
 - Email: Anushkak1202@gmail.com
 - LinkedIn: [Anushka Khadatkar](https://www.linkedin.com/in/anushka-khadatkar/)
 - Medium: [Anushka Khadatkar] (https://medium.com/@anushkak1202)
+
 ---
 
 Made with ❤️ Anushka
