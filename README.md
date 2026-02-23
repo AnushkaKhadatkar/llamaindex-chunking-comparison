@@ -141,3 +141,16 @@ Sanity checks performed:
 ## 🏁 Conclusion
 
 Sentence-window chunking consistently achieved the highest retrieval quality across all queries. Although it increases chunk count and retrieval latency, its fine-grained segmentation provides superior semantic alignment. Therefore, **sentence-window chunking is the most effective technique** for retrieval-only QA over the Tiny Shakespeare corpus.
+
+---
+
+## 👨‍💻 Author
+
+**Your Name**
+- GitHub: [AnushkaKhadatkar](https://github.com/AnushkaKhadatkar)
+- Email: Anushkak1202@gmail.com
+- LinkedIn: [Anushka Khadatkar](https://www.linkedin.com/in/anushka-khadatkar/)
+- Medium: [Anushka Khadatkar] (https://medium.com/@anushkak1202)
+---
+
+Made with ❤️ Anushka
