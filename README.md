@@ -89,7 +89,7 @@ Sanity checks performed:
 ![Sentence-Window Chunking](screenshots/sentence.png)
 
 ### Final Comparison
-![Final Comparison](screenshots/final.png)
+![Final Comparison](screenshots/comparison.png)
 ---
 
 ## 🧠 Retrieval Evaluation
