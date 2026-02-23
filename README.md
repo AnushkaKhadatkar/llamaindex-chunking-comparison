@@ -24,8 +24,7 @@ All experiments use:
 .
 ├── main.py
 ├── requirements.txt
-├── data/
-│   └── tinyshakespeare.txt
+├── screenshots/
 └── README.md
 ```
 
